@@ -15,7 +15,7 @@ body {
     cursor: pointer;
     user-select: none;
 }
-.slosed{
+.closed{
     display: none;
 }
 
